@@ -12,3 +12,4 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox
 import threading
 import whois
+you need to install the things that are in the import nothing else or the file of osint tool py
